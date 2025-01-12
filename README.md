@@ -7,7 +7,6 @@ Nature's Palette is a beautifully designed, lightweight, and responsive landing 
 
 - **Responsive Design**: Works seamlessly on devices of all sizes.
 - **Clean Layout**: Minimalistic and modern interface for a delightful user experience.
-- **Gallery Showcase**: A curated collection of stunning nature wallpapers.
 
 ## Project Structure
 
@@ -59,6 +58,10 @@ cd OCTANET_JANUARY
 
 ![image](https://github.com/user-attachments/assets/4fd04913-1383-404c-9029-9c073eb70b11)
 ![image](https://github.com/user-attachments/assets/2dda36d2-0844-4a24-965d-a7ae27f39406)
+![image](https://github.com/user-attachments/assets/e651ee12-e5a3-454f-baa0-2b61fba11330)
+
+
+https://github.com/user-attachments/assets/f189b9d7-4d8d-4746-9108-eb6ba35f027f
 
 
 
